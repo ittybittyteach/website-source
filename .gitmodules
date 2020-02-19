@@ -1,3 +1,7 @@
 [submodule "themes/prav"]
 	path = themes/prav
 	url = https://github.com/pravin/hugo-theme-prav.git
+[submodule "public"]
+	path = public
+	url = https://github.com/ittybittyteach/ittybittyteach.github.io.git
+	branch = master
