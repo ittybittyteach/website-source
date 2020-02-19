@@ -1,0 +1,17 @@
+When getting started:
+-------------------------------------
+- on your keyboard hit 'windows + r'
+- type 'cmd' and hit enter
+- in the doss prompt type "cd c:\website" (without quotes)
+- make sure your prompt says "c:\website>"
+- type 'hugo server -D' and hit enter
+- leave this dos window open in the background until you are done
+- visit http://localhost:1313/ (this is not a real place you can send to people yet)
+       (ctrl click this link and it will open for you)
+
+To Add a new page:
+-------------------------------------
+Simply copy and paste an exiting one and change the details
+
+To submit:
+-------------------------------------

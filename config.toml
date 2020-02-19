@@ -1,0 +1,33 @@
+baseURL = "https://example.com/"
+languageCode = "en-us"
+title = "Mrs. Martin's Website"
+theme = "prav"
+
+pygmentsCodeFences = "true"
+pygmentsStyle = "perldoc"
+
+# The settings below are used throughout the theme.
+# Please update!
+[params]
+  title = "Mrs. Martin's Website"
+  tagline = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+  author = "Megan Martin"
+
+# If you do not want a social icon, just comment it out
+# Please update the example values!
+#if you dont want these, just delete the row
+[social]
+  email = "mailto:example@example.com"
+  facebook = "https://www.facebook.com/example"
+  twitter = "http://twitter.com/example"
+
+
+# Set unsafe mode to allow markdownify to work with goldmark
+# This is important. Please do not delete. It is used to re-render markdown
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[taxonomies]
+  tag = "tags"
