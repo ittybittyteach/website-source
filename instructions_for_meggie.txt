@@ -12,6 +12,7 @@ When getting started:
 To Add a new page:
 -------------------------------------
 - Simply copy and paste an exiting one and change the details
+- New pages go in the "content/posts" folder
 - Here is a guide to the formatting syntax: https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax
                                                  (ctrl click this link to open)
 
