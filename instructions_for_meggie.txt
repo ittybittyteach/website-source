@@ -11,7 +11,21 @@ When getting started:
 
 To Add a new page:
 -------------------------------------
-Simply copy and paste an exiting one and change the details
+- Simply copy and paste an exiting one and change the details
+- Here is a guide to the formatting syntax: https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax
+                                                 (ctrl click this link to open)
 
 To submit:
 -------------------------------------
+- stop the hugo dos prompt you probably have started
+- delete the contents of the "public" folder
+- from a dos prompt, and in the 'C:\website\' folder run the following 'hugo -D'
+- change into the 'c:\website\public' folder by typing "cd public"
+- run "git add ."
+- run 'git commit -m "updated website"' (without single quotes, but with the double)
+- run "git push", it *may* prompt you to login with github, its in your lastpass
+- change into the 'c:\website' folder by typing "cd .."
+- again run the following git commands
+   - "git add ."
+   - 'git commit -m "updated website"' (without single quotes, but with the double)
+   - "git push"
