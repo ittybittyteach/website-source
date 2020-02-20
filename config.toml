@@ -10,7 +10,7 @@ pygmentsStyle = "perldoc"
 # Please update!
 [params]
   title = "Mrs. Martin's Website"
-  tagline = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+  tagline = "Advances are Made by Answering Questions. Discoveries are Made by Questioning Answers. -Bernard Haisch-"
   author = "Megan Martin"
 
 # If you do not want a social icon, just comment it out
